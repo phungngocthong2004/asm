@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_qlsp"
+        android:title="@string/QLSP"
+        android:icon="@drawable/ic_quanly"/>
+
+    <item android:id="@+id/nav_gioithieu"
+        android:title="@string/gioithieu"
+        android:icon="@drawable/ic_gioithieu"/>
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">asm_ph32356</string>
+    <string name="forgot_passwrord"><u>Forgot Passwrord?</u></string>
+    <string name="sign_up">Don\'t  have an account?<b>Sign Up</b></string>
+    <string name="chinhsua"><u>Chỉnh Sửa</u></string>
+    <string name="xoa"><u>Xóa</u></string>
+
+    <string name="QLSP">Quản Lý Công Việc</string>
+    <string name="gioithieu">Giới Thiệu</string>
+    <string name="khac">Khác</string>
+    <string name="setting">Cài Đặt</string>
+    <string name="dangxuat">Đăng xuất</string>
+
+    <string name="navi_close">Close navigation drawer</string>
+    <string name="navi_open">Open navigation drawer</string>
+</resources>
